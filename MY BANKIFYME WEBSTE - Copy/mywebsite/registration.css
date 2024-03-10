@@ -1,0 +1,44 @@
+.registration {
+    letter-spacing: 0.04em;
+    margin: 0px;
+    height: 550px;
+    display: flex;
+    align-items: center;
+}
+  
+  .registration-frame {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: 1fr 1fr;
+  }
+  
+  .left-frame-registration {
+    /* background-color: #C471ED; */
+  
+  }
+  
+  .left-frame-registration h1 {
+    color: whitesmoke;
+    font-size: 36px;
+    line-height: 102%;
+    margin: 0px 45px;
+  }
+  
+  .left-frame-registration h1 span {
+    background: linear-gradient(90deg, #12C2E9, #A33CD5, #EF1D29);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .left-frame-registration ul {
+    color: rgb(181, 175, 175);
+    line-height: 130%;
+    margin-left: 100px;
+    font-size: 15px;
+  
+  }
+  
+  .right-frame-registration {
+    /* background-color: #be94c5; */
+  }
+  
